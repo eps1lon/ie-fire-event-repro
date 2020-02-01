@@ -26,6 +26,6 @@
     "webpack": "^4.41.5"
   },
   "resolutions": {
-    "**/@testing-library/dom": "https://pkg.csb.dev/testing-library/dom-testing-library/commit/e29c7279/@testing-library/dom"
+    "**/@testing-library/dom": "add https://pkg.csb.dev/testing-library/dom-testing-library/commit/ee962a9a/@testing-library/dom"
   }
 }
